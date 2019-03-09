@@ -1,0 +1,2 @@
+# MySQLTraining
+Ćwiczenia z SQL
